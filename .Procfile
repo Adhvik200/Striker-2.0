@@ -1,1 +1,1 @@
-Woker : node src/
+Woker : node index.js
